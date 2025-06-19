@@ -29,7 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzlazahid007&show_icons=true&locale=en" alt="hanzlazahid007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzlazahid007&" alt="hanzlazahid007" /></p>
-## Hi there 👋
+
 
 <!--
 **Hanzlazahid007/Hanzlazahid007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
